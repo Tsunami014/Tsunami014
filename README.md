@@ -6,10 +6,11 @@
   </a>
 </h3>
 
-| <img src="TsunamiFox.png" style="width: 10vw" /> | <h2>Some stuff about me</h2> |
-|---|:-:|
-| I'm currently working on a game engine called [Blaze Sudios](https://github.com/Tsunami014/Blaze-Sudio) | I'm good at many programming languages and can pick up any other via da internet |
-| Insert witty joke here | I'll probably never finish this table, will I? 
+# 💡 About me
+ - I'm currently working on a game engine called [Blaze Sudios](https://github.com/Tsunami014/Blaze-Sudio)
+ - I'm **very** good at python
+ - I would like to learn more about other languages
+ - Go look at my [Codingame profile](https://www.codingame.com/profile/658075e0ba9b9b722ef519d0010b39fc9069326)!
 
 <!--
 **Tsunami014/Tsunami014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
