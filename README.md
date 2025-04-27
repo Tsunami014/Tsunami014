@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><img src="https://github.com/user-attachments/assets/6d30c6dc-451b-46d5-a88a-4b414a8e6bfa" alt="Banner!"></h3>
+  <h3><img src="https://github.com/user-attachments/assets/6d30c6dc-451b-46d5-a88a-4b414a8e6bfa" alt="Banner!" style="width: 100% !important"></h3>
 
   <img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" />
 </div>
