@@ -1,7 +1,7 @@
 <div align="center">
   <h3><img src="https://github.com/user-attachments/assets/6d30c6dc-451b-46d5-a88a-4b414a8e6bfa" alt="Banner!" style="width: 70vw"></h3>
 
-  <img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" />
+  <a href="https://tsunami014.github.io"><img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" /></a>
 </div>
 
 
