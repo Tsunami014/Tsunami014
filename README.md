@@ -19,7 +19,7 @@
 | [![](https://tsunami014.pythonanywhere.com/0/2/img.png)](https://tsunami014.pythonanywhere.com/0/2/flip) | [![](https://tsunami014.pythonanywhere.com/1/2/img.png)](https://tsunami014.pythonanywhere.com/1/2/flip) | [![](https://tsunami014.pythonanywhere.com/2/2/img.png)](https://tsunami014.pythonanywhere.com/2/2/flip) |
 
 [![](https://tsunami014.pythonanywhere.com/turn.png)]()
-To make your turn, `ctrl+click` (open in new tab) which tile above you want to change!
+To make your turn, `ctrl+click` (open in new tab) which tile above you want to change, then refresh the page!
 
 <!--
 **Tsunami014/Tsunami014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
