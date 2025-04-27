@@ -1,10 +1,8 @@
-![A profile banner :)](github-header-image.png)
+<div align="center">
+  <h3><img src="https://github.com/user-attachments/assets/6d30c6dc-451b-46d5-a88a-4b414a8e6bfa" alt="Banner!"></h3>
 
-<h3 align="center">
-  <a href="https://tsunami014.github.io/">
-    <img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" />
-  </a>
-</h3>
+  <img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" />
+</div>
 
 # 💡 About me
  - I'm currently working on a game engine called [Blaze Sudios](https://github.com/Tsunami014/Blaze-Sudio)
