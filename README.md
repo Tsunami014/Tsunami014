@@ -6,10 +6,10 @@
 
 
 # ❌⭕️ Tic-tac-toe
-| [![](https://tsunami014.pythonanywhere.com/0/0/img.png)](https://tsunami014.pythonanywhere.com/0/0/flip) | [![](https://tsunami014.pythonanywhere.com/1/0/img.png)](https://tsunami014.pythonanywhere.com/1/0/flip) | [![](https://tsunami014.pythonanywhere.com/2/0/img.png)](https://tsunami014.pythonanywhere.com/2/0/flip) |
+| <a href="https://tsunami014.pythonanywhere.com/0/0/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/0/0/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/1/0/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/1/0/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/2/0/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/2/0/img.png" /></a> |
 |-----|-----|-----|
-| [![](https://tsunami014.pythonanywhere.com/0/1/img.png)](https://tsunami014.pythonanywhere.com/0/1/flip) | [![](https://tsunami014.pythonanywhere.com/1/1/img.png)](https://tsunami014.pythonanywhere.com/1/1/flip) | [![](https://tsunami014.pythonanywhere.com/2/1/img.png)](https://tsunami014.pythonanywhere.com/2/1/flip) |
-| [![](https://tsunami014.pythonanywhere.com/0/2/img.png)](https://tsunami014.pythonanywhere.com/0/2/flip) | [![](https://tsunami014.pythonanywhere.com/1/2/img.png)](https://tsunami014.pythonanywhere.com/1/2/flip) | [![](https://tsunami014.pythonanywhere.com/2/2/img.png)](https://tsunami014.pythonanywhere.com/2/2/flip) |
+| <a href="https://tsunami014.pythonanywhere.com/0/1/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/0/1/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/1/1/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/1/1/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/2/1/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/2/1/img.png" /></a> |
+| <a href="https://tsunami014.pythonanywhere.com/0/2/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/0/2/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/1/2/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/1/2/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/2/2/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/2/2/img.png" /></a> |
 
 [![](https://tsunami014.pythonanywhere.com/turn.png)]()
 
