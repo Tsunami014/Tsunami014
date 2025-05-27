@@ -15,6 +15,8 @@
 
 To make your turn, `ctrl+click` (open in new tab) which tile above you want to change, then refresh the page!
 
+And if it has broken images, try `ctrl+click`ing on any of them and then refresh the page and *hopefully* all should be good.
+
 # 💡 About me
 <img src="https://raw.githubusercontent.com/Tsunami014/Tsunami014/main/TsunamiFox.png" style="width: 50%;width: min(50vh, 50vw);padding: 10px;border-radius: 10%" alt="Tsunami fox HEHE >:)">
 
