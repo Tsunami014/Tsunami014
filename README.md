@@ -22,8 +22,6 @@ And if it has broken images, try `ctrl+click`ing on any of them and then refresh
 
 Hi! I'm Max, the renound maker of [Blaze Sudios](https://tsunami014.github.io/Blaze-Sudio) and friends with `@Stimbix` and `@Imzafish`. I make things with code. They're really cool things.
 
-What I'm doing now: ![My time](https://raw.githubusercontent.com/Tsunami014/LiveBadges/refs/heads/main/badges/workingBadge.svg)
-
 | Programming languages I'm *excellent* at | Programming languages I'm ok at |
 |--|--|
 | ![Python](https://badgen.net/badge/icon/python?icon=pypi&label&color=green) | ![JavaScript](https://badgen.net/badge/icon/JavaScript?icon=rss&label&color=orange) |
