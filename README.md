@@ -1,10 +1,3 @@
-<div align="center">
-  <h3><img src="https://github.com/user-attachments/assets/6d30c6dc-451b-46d5-a88a-4b414a8e6bfa" alt="Banner!" style="width: 70vw"></h3>
-
-  <a href="https://tsunami014.github.io"><img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" /></a>
-</div>
-
-
 # ❌⭕️ Tic-tac-toe
 | <a href="https://tsunami014.pythonanywhere.com/0/0/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/0/0/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/1/0/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/1/0/img.png" /></a> | <a href="https://tsunami014.pythonanywhere.com/2/0/flip" target="_blank"><img src="https://tsunami014.pythonanywhere.com/2/0/img.png" /></a> |
 |-----|-----|-----|
@@ -18,7 +11,7 @@ To make your turn, `ctrl+click` (open in new tab) which tile above you want to c
 And if it has broken images, try `ctrl+click`ing on any of them and then refresh the page and *hopefully* all should be good.
 
 # 💡 About me
-<img src="https://raw.githubusercontent.com/Tsunami014/Tsunami014/main/TsunamiFox.png" style="width: 50%;width: min(50vh, 50vw);padding: 10px;border-radius: 10%" alt="Tsunami fox HEHE >:)">
+<a href="https://tsunami014.github.io"><img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" /></a>
 
 Hi! I'm Max, the renound maker of [Blaze Sudios](https://tsunami014.github.io/Blaze-Sudio) and friends with `@Stimbix` and `@Imzafish`. I make things with code. They're really cool things.
 
