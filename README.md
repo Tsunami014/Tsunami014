@@ -13,7 +13,7 @@ And if it has broken images, try `ctrl+click`ing on any of them and then refresh
 # 💡 About me
 <a href="https://tsunami014.github.io"><img src="https://badgen.net/static/-/Go%20see%20my%20website/?label=&icon=rss&scale=2" alt="Go see my website!" /></a>
 
-Hi! I'm Max, the renound maker of [Blaze Sudios](https://tsunami014.github.io/Blaze-Sudio) and friends with `@Stimbix` and `@Imzafish`. I make things with code. They're really cool things.
+Hi! I'm Max, the renound maker of [Blaze Sudios](/Blaze-Sudio) and friends with `@Stimbix` and `@Imzafish`. I make things with code. They're really cool things.
 
 | Programming languages I'm *excellent* at | Programming languages I'm ok at |
 |--|--|
